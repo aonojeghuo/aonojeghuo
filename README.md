@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aonojeghuo
-- 👀 I’m interested Data Science using a combination of toosl including R, SQL, Python and more ...
+- 👀 I’m interested in Data Science and Analytic using a combination of toosl including R, SQL, Python and more ...
 - 🌱 I’m currently learning RMarkdown and other publishing tools
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on geospatial data science as my Ph.D. is in Geography
 - 📫 I can be reached at a.onojeghuo@gmail.com
 
 <!---
